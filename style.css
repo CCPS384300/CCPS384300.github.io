@@ -1,6 +1,6 @@
 P {
   color: pink;
-  width: 20px;
+  background-color: lightpink;
 }
 
 ul {
@@ -14,8 +14,8 @@ ol {
 }
 
 h1 {
-  height: 20px;
-  width: 20px;
+  text-align: center;
+  text-transform: uppercase;
 }
 
 header {
@@ -30,5 +30,5 @@ body {
 
 footer {
   color: pink;
-  width: 20px;
+  font-size: 12pt;
 }
